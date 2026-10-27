@@ -15,9 +15,9 @@ const jobs = [
   },
   {
     role: 'Marketing Representative',
-    company: 'Company Name', // TODO: replace with the real company name
+    company: 'Vielmax Group',
     type: 'Remote',
-    period: 'Month Year – Month Year', // TODO: replace with real dates
+    period: 'may 2023 – november 2023',
     points: [
       'Identified and engaged prospective customers online to introduce company products and services.',
       'Explained product features clearly so customers understood what was on offer.',
