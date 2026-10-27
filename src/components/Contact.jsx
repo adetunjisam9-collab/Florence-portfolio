@@ -17,7 +17,7 @@ const contacts = [
   {
     label: 'LinkedIn',
     value: 'View profile',
-    href: 'https://www.linkedin.com/', // TODO: replace with her real profile link
+    href: 'https://www.linkedin.com/public-profile/settings/',
   },
 ]
 

@@ -34,9 +34,11 @@ export default function Hero() {
         </div>
 
         <div className="flex justify-center">
-          <div className="w-56 h-56 md:w-72 md:h-72 rounded-full bg-gradient-to-br from-teal-400 to-teal-700 flex items-center justify-center text-6xl font-bold text-slate-900">
-            FM
-          </div>
+          <img
+            src="/florence.jpeg"
+            alt="Florence Mike"
+            className="w-56 h-56 md:w-72 md:h-72 rounded-full object-cover border-4 border-teal-400"
+          />
         </div>
       </div>
     </section>
