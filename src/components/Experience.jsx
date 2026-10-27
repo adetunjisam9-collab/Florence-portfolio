@@ -17,7 +17,7 @@ const jobs = [
     role: 'Marketing Representative',
     company: 'Vielmax Group',
     type: 'Remote',
-    period: 'may 2023 – november 2023',
+    period: 'may 2023 – november 2024',
     points: [
       'Identified and engaged prospective customers online to introduce company products and services.',
       'Explained product features clearly so customers understood what was on offer.',
